@@ -1,5 +1,5 @@
 {
-  "main.css": "/star_wars_card_demo/static/css/main.8db56ce5.chunk.css",
+  "main.css": "/star_wars_card_demo/static/css/main.d19fff8b.chunk.css",
   "main.js": "/star_wars_card_demo/static/js/main.7be02d82.chunk.js",
   "main.js.map": "/star_wars_card_demo/static/js/main.7be02d82.chunk.js.map",
   "runtime~main.js": "/star_wars_card_demo/static/js/runtime~main.8e2a2288.js",
@@ -7,9 +7,9 @@
   "static/js/2.56455530.chunk.js": "/star_wars_card_demo/static/js/2.56455530.chunk.js",
   "static/js/2.56455530.chunk.js.map": "/star_wars_card_demo/static/js/2.56455530.chunk.js.map",
   "index.html": "/star_wars_card_demo/index.html",
-  "precache-manifest.45415fba083eff9d83187e20a9b9e183.js": "/star_wars_card_demo/precache-manifest.45415fba083eff9d83187e20a9b9e183.js",
+  "precache-manifest.ea8054d5fc90cd611afca2c654a31b9c.js": "/star_wars_card_demo/precache-manifest.ea8054d5fc90cd611afca2c654a31b9c.js",
   "service-worker.js": "/star_wars_card_demo/service-worker.js",
-  "static/css/main.8db56ce5.chunk.css.map": "/star_wars_card_demo/static/css/main.8db56ce5.chunk.css.map",
+  "static/css/main.d19fff8b.chunk.css.map": "/star_wars_card_demo/static/css/main.d19fff8b.chunk.css.map",
   "static/media/index.css": "/star_wars_card_demo/static/media/midground.cbbe07d8.png",
   "static/media/spinner.svg": "/star_wars_card_demo/static/media/spinner.5dabaa7a.svg"
 }

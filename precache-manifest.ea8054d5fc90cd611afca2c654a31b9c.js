@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/star_wars_card_demo/static/js/runtime~main.8e2a2288.js"
   },
   {
-    "revision": "6b745522d8e7b29589e7",
+    "revision": "d574def99b64eaf75326",
     "url": "/star_wars_card_demo/static/js/main.7be02d82.chunk.js"
   },
   {
@@ -24,11 +24,11 @@ self.__precacheManifest = [
     "url": "/star_wars_card_demo/static/js/2.56455530.chunk.js"
   },
   {
-    "revision": "6b745522d8e7b29589e7",
-    "url": "/star_wars_card_demo/static/css/main.8db56ce5.chunk.css"
+    "revision": "d574def99b64eaf75326",
+    "url": "/star_wars_card_demo/static/css/main.d19fff8b.chunk.css"
   },
   {
-    "revision": "742679f45cb2280ba33c2a16dcdaecd3",
+    "revision": "483b7b405af0d74e634400fc29bf2e7a",
     "url": "/star_wars_card_demo/index.html"
   }
 ];
