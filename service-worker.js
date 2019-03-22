@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Grzegorz-Pietruszka/star_wars_card_demo/precache-manifest.98f8978d9f7cafafc9a0e369a6f105b1.js"
+  "/star_wars_card_demo/precache-manifest.45415fba083eff9d83187e20a9b9e183.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Grzegorz-Pietruszka/star_wars_card_demo/index.html", {
+workbox.routing.registerNavigationRoute("/star_wars_card_demo/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

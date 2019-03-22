@@ -1,15 +1,15 @@
 {
-  "main.css": "/Grzegorz-Pietruszka/star_wars_card_demo/static/css/main.7b0b30cf.chunk.css",
-  "main.js": "/Grzegorz-Pietruszka/star_wars_card_demo/static/js/main.86cd9883.chunk.js",
-  "main.js.map": "/Grzegorz-Pietruszka/star_wars_card_demo/static/js/main.86cd9883.chunk.js.map",
-  "runtime~main.js": "/Grzegorz-Pietruszka/star_wars_card_demo/static/js/runtime~main.746596cd.js",
-  "runtime~main.js.map": "/Grzegorz-Pietruszka/star_wars_card_demo/static/js/runtime~main.746596cd.js.map",
-  "static/js/2.56455530.chunk.js": "/Grzegorz-Pietruszka/star_wars_card_demo/static/js/2.56455530.chunk.js",
-  "static/js/2.56455530.chunk.js.map": "/Grzegorz-Pietruszka/star_wars_card_demo/static/js/2.56455530.chunk.js.map",
-  "index.html": "/Grzegorz-Pietruszka/star_wars_card_demo/index.html",
-  "precache-manifest.98f8978d9f7cafafc9a0e369a6f105b1.js": "/Grzegorz-Pietruszka/star_wars_card_demo/precache-manifest.98f8978d9f7cafafc9a0e369a6f105b1.js",
-  "service-worker.js": "/Grzegorz-Pietruszka/star_wars_card_demo/service-worker.js",
-  "static/css/main.7b0b30cf.chunk.css.map": "/Grzegorz-Pietruszka/star_wars_card_demo/static/css/main.7b0b30cf.chunk.css.map",
-  "static/media/index.css": "/Grzegorz-Pietruszka/star_wars_card_demo/static/media/midground.cbbe07d8.png",
-  "static/media/spinner.svg": "/Grzegorz-Pietruszka/star_wars_card_demo/static/media/spinner.5dabaa7a.svg"
+  "main.css": "/star_wars_card_demo/static/css/main.8db56ce5.chunk.css",
+  "main.js": "/star_wars_card_demo/static/js/main.7be02d82.chunk.js",
+  "main.js.map": "/star_wars_card_demo/static/js/main.7be02d82.chunk.js.map",
+  "runtime~main.js": "/star_wars_card_demo/static/js/runtime~main.8e2a2288.js",
+  "runtime~main.js.map": "/star_wars_card_demo/static/js/runtime~main.8e2a2288.js.map",
+  "static/js/2.56455530.chunk.js": "/star_wars_card_demo/static/js/2.56455530.chunk.js",
+  "static/js/2.56455530.chunk.js.map": "/star_wars_card_demo/static/js/2.56455530.chunk.js.map",
+  "index.html": "/star_wars_card_demo/index.html",
+  "precache-manifest.45415fba083eff9d83187e20a9b9e183.js": "/star_wars_card_demo/precache-manifest.45415fba083eff9d83187e20a9b9e183.js",
+  "service-worker.js": "/star_wars_card_demo/service-worker.js",
+  "static/css/main.8db56ce5.chunk.css.map": "/star_wars_card_demo/static/css/main.8db56ce5.chunk.css.map",
+  "static/media/index.css": "/star_wars_card_demo/static/media/midground.cbbe07d8.png",
+  "static/media/spinner.svg": "/star_wars_card_demo/static/media/spinner.5dabaa7a.svg"
 }
